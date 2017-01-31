@@ -1,0 +1,7 @@
+*.vcxproj.*
+*.vcxproj
+*.AVI
+*.avi
+Debug/*
+/Debug/*
+*.png
